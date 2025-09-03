@@ -48,7 +48,7 @@ The project includes **Test Plan, Test Cases, Bug Reports, and Test Summary Repo
 **Mohammed Ilyas**  
 - Skills: Manual Testing, Test Case Design, Bug Reporting  
 - LinkedIn: [www.linkedin.com/in/mohammedilyas15](https://www.linkedin.com/in/mohammedilyas15)  
-- Email: mohammedilyasva2004@gmail.com  
+- Email: vamohammedilyas05@gmail.com  
 
 ---
 
