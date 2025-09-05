@@ -55,4 +55,4 @@ The project includes **Test Plan, Test Cases, Bug Reports, and Test Summary Repo
 ## ✅ Notes
 - This project is intended for **learning and demonstration purposes**.  
 - All testing is performed manually without automation.  
-- Test cases can be adapted or expanded for future testing exercises.  
+- Test cases can be adapted or expanded for future testing exercise.  
