@@ -7,7 +7,7 @@ The goal is to verify key functionalities of Flipkart to ensure **quality, usabi
 Manual testing was carried out on the **Login, Product Search, Add to Cart, and Checkout modules**.  
 The project includes **Test Plan, Test Cases, Bug Reports, and Test Summary Reports**.
 
----
+--- 
 
 ## 📂 Files Included
 - `Test_Plan.docx` → Defines project scope, objectives, approach, test environment, and schedule.  
